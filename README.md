@@ -1,8 +1,15 @@
-![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndrewMenethil&theme=tokyonight&exclude=)
-![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndrewMenethil&theme=tokyonight)
+<div align="center"><h1> Hi, im Andrey <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50"></h1>
+
+<p align="center"><b>But I tried, didn't I? Goddamnit, at least I did that. - McMurphy</b></p>
+
 
 **Visitor Count**   
 ![Visitor Count](https://profile-counter.glitch.me/AndrewMenethil/count.svg)
+
+![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndrewMenethil&theme=tokyonight&exclude=)
+![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndrewMenethil&theme=tokyonight)
+
+<p align="center"><img src="https://raw.githubusercontent.com/mudachyo/mudachyo/output/github-contribution-grid-snake.svg"></p>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
