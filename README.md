@@ -15,6 +15,7 @@
   - ClickHouse
   - PostgreSQL
   - Apache Airflow
+  - DBT
   - Docker
   - Git
   - Metabase, Power BI
