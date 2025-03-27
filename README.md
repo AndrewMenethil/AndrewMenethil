@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
+<h1> Hi, I'm Andrey <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50"></h1>
+<p><b>But I tried, didn't I? Goddamnit, at least I did that. - McMurphy</b></p>
+</div>
 
-<!--
-**AndrewMenethil/AndrewMenethil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐶 My pet-projects
 
-Here are some ideas to get you started:
+- [Starlink DWH](https://github.com/AndrewMenethil/StarlinkDWH) - автоматизированный пайплайн для сбора, обработки и анализа данных о спутниковой сети Starlink на основе открытого API SpaceX. Проект объединяет Apache Airflow для оркестрации процессов, PySpark для масштабируемой обработки данных и ClickHouse для создания высокопроизводительных аналитических витрин.
+- [CSV Workflow](https://github.com/AndrewMenethil/CSVWorkflow) - Полный цикл обработки данных: от загрузки .csv файла с платформы Kaggle и его трансформации до визуализации в Power BI для анализа и принятия бизнес-решений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Technologies
+
+  - Python (PySpark, Pandas)
+  - SQL
+  - ClickHouse
+  - PostgreSQL
+  - Apache Airflow
+  - Docker
+  - Git
+  - Power BI
+    
+## 👨‍💻 About Me
+
+Привет! Меня зовут Андрей. Я - Data Engineer, специализирующийся на обработке больших данных, автоматизации процессов и создании эффективных аналитических решений для бизнеса. В данный момент я работаю над несколькими pet-проектами, связанными с обработкой данных и построением аналитических витрин.
+
+Я стремлюсь развиваться в области Data Engineering и создавать проекты, которые помогают компаниям оптимизировать обработку данных и принимать более обоснованные бизнес-решения.
+
+## 🤝 Connect with me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndrewMenethil) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyttt/)
+
+---
+
+![](https://komarev.com/ghpvc/?username=AndrewMenethil)
+
