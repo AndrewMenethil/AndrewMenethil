@@ -17,7 +17,7 @@
   - Apache Airflow
   - Docker
   - Git
-  - Power BI
+  - Metabase, Power BI
     
 ## 👨‍💻 About Me
 
