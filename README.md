@@ -12,10 +12,10 @@
 
   - Python (PySpark, Pandas)
   - SQL
-  - ClickHouse
-  - PostgreSQL
   - Apache Airflow
   - DBT
+  - ClickHouse
+  - PostgreSQL
   - Docker
   - Git
   - Metabase, Power BI
