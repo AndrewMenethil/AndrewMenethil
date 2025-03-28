@@ -10,9 +10,10 @@
 
 ## 🛠 Skills & Technologies
 
-  - Python (PySpark, Pandas)
+  - Python (Pandas)
   - SQL
   - Apache Airflow
+  - Apache Spark (PySpark)
   - DBT
   - ClickHouse
   - PostgreSQL
