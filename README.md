@@ -14,7 +14,6 @@
   - SQL
   - Apache Airflow
   - Apache Spark (PySpark)
-  - DBT
   - ClickHouse
   - PostgreSQL
   - Docker
