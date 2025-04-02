@@ -9,7 +9,10 @@
 > Starlink API → PostgreSQL → Airflow → PySpark → ClickHouse → Metabase
 ---
 - [DBTHouse]()
-> Starlink API → ClickHouse → DBT → ClickHouse → Metabase
+> Starlink API → ClickHouse → DBT → ClickHouse
+---
+- [ParallelSpark]() - 
+> → → →
 ---
 - [MovieFlow]() - полный цикл обработки данных: от загрузки `.csv` файла с платформы Kaggle и его трансформации до визуализации в Power BI для анализа и принятия бизнес-решений.
 > Kaggle → CSV → Postgres → PowerBI
