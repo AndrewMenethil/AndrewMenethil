@@ -19,14 +19,13 @@
 
 ## 🛠 Skills & Technologies
 
-  - Python (Pandas)
+  - Python (Pandas, SQLAlchemy)
   - SQL
   - Apache Airflow
   - Apache Spark (PySpark)
-  - ClickHouse
-  - PostgreSQL
+  - ClickHouse, PostgreSQL
   - Docker
-  - Git
+  - Linux, Git, Bash
   - Metabase, Power BI
     
 ## 👨‍💻 About Me
