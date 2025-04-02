@@ -6,7 +6,7 @@
 ## 🐶 My pet-projects
 
 - [StarSpark]() - автоматизированный пайплайн для сбора, обработки и анализа данных о спутниковой сети Starlink на основе открытого API SpaceX. Проект объединяет Apache Airflow для оркестрации процессов, PySpark для масштабируемой обработки данных, PostgreSQL для хранения сырых данных, ClickHouse для создания аналитических витрин и Metabase для визуализации.
-> Starlink API → PostgreSQL → Airflow → PySpark → ClickHouse → Metabase
+> Starlink API → PostgreSQL → Airflow + PySpark → ClickHouse → Metabase
 ---
 - [DBTHouse]() - [В РАЗРАБОТКЕ]
 > Starlink API → ClickHouse → DBT → ClickHouse
