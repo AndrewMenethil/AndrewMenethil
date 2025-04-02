@@ -29,8 +29,6 @@
 ## 🤝 Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndrewMenethil) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyttt/)
-
 ---
-
-![](https://komarev.com/ghpvc/?username=AndrewMenethil)
+![](https://komarev.com/ghpvc/?username=AndrewMenethil) ![dd](https://www.codewars.com/users/AndrewMenethil/badges/micro)
 
